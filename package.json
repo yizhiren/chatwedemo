@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "chatwe": "~0.0.5"
+    "chatwe": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
